@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    box-sizing:border-box;
+}
+body{
+    margin: 50px 400px;
+    padding: 8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.box-1{
+    border: 2px solid rgb(0,255,255);
+    border-radius: 4px;
+}
+.title_box{
+    padding:  40px 40px;
+    background-color: aqua;
+}
+.content_box{
+    background-color: azure;
+    padding: 5px 40px 5px 40px;
+}
+
+input[type="tel"],
+input[type="text"],
+input[type="email"],
+textarea{
+    width:100%;
+    border-color: aqua;
+    border-radius: 2px;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]{
+    background-color:aquamarine;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 50px;
+    cursor: pointer;
+    width: 100%;
+}
+input[type="submit"]:hover{
+    background-color:aqua;
+}
+input[type="submit"]:visited{
+    background-color:aliceblue;
+}
+input[type="submit"]:active{
+    background-color:blue;
+}

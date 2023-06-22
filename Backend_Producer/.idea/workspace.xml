@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="419c2c9f-04fc-4ed9-a0cf-5f9927203d90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/StudentDetails/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/StudentDetails/StudentDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/exceptions/EmailNotValid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/service/StudentServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/java/com/springbootbackend/springbootbackend/service/StudentServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootbackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springbootbackend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JYK9tVymw3opk30dCIk8B3XMU5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Hp/Desktop/sdp_task-1/backend/springbootbackend",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419c2c9f-04fc-4ed9-a0cf-5f9927203d90" name="Changes" comment="" />
+      <created>1672249428278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672249428278</updated>
+      <workItem from="1672249429687" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

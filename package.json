@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "react-helmet": "^6.1.0",
+    "react-script-tag": "^1.1.2",
+    "react-toastify": "^9.1.1"
+  }
+}
